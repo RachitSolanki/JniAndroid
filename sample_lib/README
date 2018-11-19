@@ -1,0 +1,3 @@
+# How to compile library using ndk
+
+~/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH=~/{Your_Path} NDK_APPLICATION_MK=~/{Your_Path}/Application.mk
